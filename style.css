@@ -1,0 +1,19 @@
+p {
+    color: cadetblue;
+    font-size: 20px;
+}
+
+#primeiro {
+    color: rgb(187, 47, 22);
+    font-size: 25px;
+}
+
+#segundo {
+    color: hsl(240, 100%, 50%);
+    font-size: 30px;
+}
+
+#terceiro {
+    color: hsl(140, 90%, 45%);
+    font-size: 35px;
+}
